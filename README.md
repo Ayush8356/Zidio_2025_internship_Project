@@ -7,7 +7,7 @@ A data analytics project to analyze and forecast stock market trends using Time 
 
 ---
 
-## 📌 Project Objectives
+## 📌 Project Objectives.
 
 - Understand time series components: **trend**, **seasonality**, **noise**
 - Forecast future stock prices using:
